@@ -26,12 +26,12 @@ As an example, we might start off with a baseline credit default risk of 10%. Gi
 
 The project is divided into the following stages, each represented by a Jupyter notebook 📓:
 
-1. **Introduction (0_introduction.ipynb)**: Provides a high-level overview of the project.
-2. **Datasets (1_datasets.ipynb)**: Covers the preparation of a dataset for machine learning using AWS Glue.
-3. **Training (2_training.ipynb)**: Trains a LightGBM model using Amazon SageMaker.
-4. **Endpoint (3_endpoint.ipynb)**: Deploys the model explainer to a HTTP endpoint using Amazon SageMaker and visualizes the explanations.
-5. **Batch Transform (4_batch_transform.ipynb)**: Uses Amazon SageMaker Batch Transform to obtain explanations for the complete dataset.
-6. **Conclusion (5_conclusion.ipynb)**: Wraps things up and discusses how to clean up the solution.
+1. **Introduction (0_introduction.ipynb)**: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Credit-Decisions/blob/main/notebooks/0_introduction.ipynb) Provides a high-level overview of the project.
+2. **Datasets (1_datasets.ipynb)**: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Credit-Decisions/blob/main/notebooks/1_datasets.ipynb) Covers the preparation of a dataset for machine learning using AWS Glue.
+3. **Training (2_training.ipynb)**: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Credit-Decisions/blob/main/notebooks/2_training.ipynb) Trains a LightGBM model using Amazon SageMaker.
+4. **Endpoint (3_endpoint.ipynb)**: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Credit-Decisions/blob/main/notebooks/3_endpoint.ipynb) Deploys the model explainer to a HTTP endpoint using Amazon SageMaker and visualizes the explanations.
+5. **Batch Transform (4_batch_transform.ipynb)**: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Credit-Decisions/blob/main/notebooks/4_batch_transform.ipynb) Uses Amazon SageMaker Batch Transform to obtain explanations for the complete dataset.
+6. **Conclusion (5_conclusion.ipynb)**: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Credit-Decisions/blob/main/notebooks/5_conclusion.ipynb) Wraps things up and discusses how to clean up the solution.
 
 ### 🛠️ Technologies Used
 
