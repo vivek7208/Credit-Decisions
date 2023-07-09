@@ -20,6 +20,8 @@ SHAP (Lundberg et al. 2017) stands for SHapley Additive exPlanations. 'Shapley' 
 
 As an example, we might start off with a baseline credit default risk of 10%. Given a set of features, we can calculate the Shapley value for each feature. Summing together all the Shapley values, we might obtain a cumulative value of +30%. Given the same set of features, we therefore expect our model to return a credit default risk of 40% (i.e. 10% + 30%).
 
+![SHAP Values Image Placeholder](https://github.com/vivek7208/Credit-Decisions/assets/65945306/7f684e57-3dbc-4d63-b02f-62230fdd5b32)
+
 ### 📂 Project Structure
 
 The project is divided into the following stages, each represented by a Jupyter notebook 📓:
